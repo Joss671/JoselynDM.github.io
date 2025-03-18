@@ -1,0 +1,17 @@
+button{padding: 0;}
+
+#button li{display: inline;}
+
+#button li a{font-family: Arial, Helvetica, sans-serif;
+font-size: 67px;
+text-decoration: navajowhite;
+float: left;
+padding: 25px;
+background-color: rgb(185,243,234);
+color: antiquewhite;}
+
+#button li a:hover{
+    background-color: rgb(232,129,129);
+    margin-top: -2;
+    padding-bottom: 30px;
+}
